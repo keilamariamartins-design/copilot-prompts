@@ -1,0 +1,160 @@
+# 🧑‍💻 Entrevista de Carreira em Tecnologia
+
+Este repositório contém o registro completo de uma entrevista simulada para identificar o melhor caminho profissional em tecnologia.  
+A entrevista foi conduzida em 7 perguntas, seguida de análise e sugestão de carreiras, e finalizada com a escolha do usuário.
+
+---
+
+## 📋 Fase 1: Entrevista
+
+**Pergunta 1:**  
+Olá! 👋  
+Sou seu entrevistador de carreira em tecnologia. Vou fazer 7 perguntas rápidas para entender seu perfil e depois vou sugerir as melhores carreiras para você.  
+Preparado? Então vamos lá!  
+Para começar: o que mais te atrai em tecnologia — resolver problemas, criar produtos ou entender sistemas?
+
+**Resposta 1:**  
+resolver problemas
+
+---
+
+**Pergunta 2:**  
+Legal! Então vamos para a próxima:  
+Você já tem experiência na área de tecnologia ou está começando do zero?
+
+**Resposta 2:**  
+começando do zero
+
+---
+
+**Pergunta 3:**  
+Entendi! Agora me conta:  
+Quantas horas por semana você consegue dedicar aos estudos?
+
+**Resposta 3:**  
+6 horas
+
+---
+
+**Pergunta 4:**  
+Perfeito! Agora me diga:  
+No seu dia a dia, você prefere lidar mais com pessoas, dados ou código?
+
+**Resposta 4:**  
+dados ou código
+
+---
+
+**Pergunta 5:**  
+Ótimo! Agora vamos avançar:  
+Qual é seu objetivo principal: conseguir o primeiro emprego, fazer transição de carreira ou crescer na função atual?
+
+**Resposta 5:**  
+fazer transição de carreira
+
+---
+
+**Pergunta 6:**  
+Show! Agora quero saber:  
+Quais assuntos ou tecnologias mais despertam seu interesse?  
+Por exemplo: desenvolvimento web, dados, inteligência artificial, infraestrutura...
+
+**Resposta 6:**  
+não sei dizer, pois estou começando
+
+---
+
+**Pergunta 7:**  
+Última pergunta agora:  
+Você tem alguma experiência prévia (mesmo que não seja em tecnologia) que gostaria de aproveitar nessa nova jornada?
+
+**Resposta 7:**  
+matemática
+
+---
+
+## 📊 Fase 2: Análise e Sugestão
+
+Perfeito! Tenho tudo que preciso. Deixa eu analisar o melhor caminho para você...
+
+Com base no seu perfil, identifiquei 3 carreiras muito promissoras:
+
+---
+
+🥇 **1º LUGAR: Cientista de Dados – 18/20**
+
+💡 **Por que combina com você:**  
+Você gosta de resolver problemas, tem afinidade com matemática e se interessa por dados. A ciência de dados aproveita muito bem esse perfil, já que exige raciocínio lógico e capacidade de transformar informações em soluções.  
+
+⚖️ **O que esperar:**  
+- **Vantagens:**  
+  - Forte demanda de mercado em diversas áreas  
+  - Uso direto da matemática e estatística  
+- **Desafios:**  
+  - Curva de aprendizado inicial em programação (Python, SQL)  
+  - Necessidade de prática em projetos reais  
+
+📈 **Mercado:**  
+A área de dados está em alta em praticamente todos os setores, mas a demanda varia conforme região e nível de experiência.  
+
+---
+
+🥈 **2º LUGAR: Desenvolvedor Backend – 16/20**
+
+💡 **Por que combina com você:**  
+Seu interesse por código e resolução de problemas se encaixa bem no desenvolvimento backend, que envolve criar a lógica e os sistemas que sustentam aplicações.  
+
+⚖️ **O que esperar:**  
+- **Vantagens:**  
+  - Trabalho direto com código e algoritmos  
+  - Boa base para evoluir em outras áreas da programação  
+- **Desafios:**  
+  - Exige dedicação para aprender linguagens e frameworks  
+  - Ramp-up pode ser mais longo sem experiência prévia  
+
+📈 **Mercado:**  
+Desenvolvedores backend são muito procurados, especialmente em empresas de tecnologia e startups.  
+
+---
+
+🥉 **3º LUGAR: Analista de Dados – 15/20**
+
+💡 **Por que combina com você:**  
+É uma porta de entrada mais rápida para quem gosta de dados e está começando do zero. Aproveita sua afinidade com matemática sem exigir tanta programação logo no início.  
+
+⚖️ **O que esperar:**  
+- **Vantagens:**  
+  - Ramp-up mais rápido para iniciantes  
+  - Uso de ferramentas acessíveis (Excel, Power BI, SQL básico)  
+- **Desafios:**  
+  - Pode limitar crescimento se não evoluir para ciência de dados  
+  - Menor profundidade técnica comparado a outras áreas  
+
+📈 **Mercado:**  
+Analistas de dados são muito requisitados em empresas que precisam organizar e interpretar informações para decisões estratégicas.  
+
+---
+
+**Pergunta final:**  
+Qual dessas carreiras te chamou mais atenção?
+
+**Resposta final:**  
+Cientista de Dados
+
+---
+
+## 🔄 Fase 3: Handoff para Agent 2
+
+Excelente escolha! 🎉  
+Vou te passar para meu colega especialista em **Ciência de Dados**. Ele vai montar todo o plano de estudos personalizado para você!  
+
+### Informações para Agent 2:
+- **Carreira escolhida:** Cientista de Dados  
+- **Horas disponíveis por semana:** 6 horas  
+- **Nível de experiência:** começando do zero  
+- **Objetivo:** transição de carreira  
+- **Preferência:** dados ou código  
+- **Interesses técnicos mencionados:** ainda indefinidos (abertura para explorar)  
+- **Experiência prévia aproveitável:** matemática  
+
+---
